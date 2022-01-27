@@ -1,0 +1,12 @@
+{
+    "name": "kellypooh100/kellypooh100",
+    "authors": [
+        {
+            "name": "Shaquel Woodside",
+            "email": "kellypooh100@gmail.com"
+        }
+    ],
+    "require": {
+        "markrogoyski/math-php": "1.*"
+    }
+}
